@@ -1,4 +1,4 @@
-        #Connect the android application to the web service:
+        # Connect the android application to the web service:
         
         String url = "http://10.0.2.2:8080/webapi/coupon";
         /*  if you get an ERROR - you may need to change the manifest:
